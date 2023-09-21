@@ -1,0 +1,42 @@
+.headerImg {
+    background-image: url(https://images.unsplash.com/photo-1516321318423-f06f85e504b3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80);
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.headerText {
+    background-color: darkblue;
+    min-height: 10vh;
+}
+
+.header-button {
+    background-color: blue;
+}
+
+.heroImg {
+    background-image: url(https://plus.unsplash.com/premium_photo-1661284900503-bc67a498f8c8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80);
+    min-height: 50dvh;
+    background-size: cover;
+    background-position: center;
+}
+
+.buildingImg {
+    background-image: url(https://images.unsplash.com/photo-1554469384-e58fac16e23a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80);
+    min-height: 40dvh;
+    background-position: center;
+    background-size: cover;
+}
+
+.cellPhone {
+    background-image: url(https://images.unsplash.com/photo-1610034445557-ee92504a1321?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80);
+    border-radius: 50px;
+    height: 120dvh;
+    background-position: bottom
+}
+
+.workingperson {
+    object-fit: cover;
+    height: 15rem;
+    width: 100%;
+}
